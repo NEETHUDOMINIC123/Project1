@@ -1,0 +1,20 @@
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+  }
+  .card-registration .select-arrow {
+    top: 13px;
+  }
+
+  .gradient2 { 
+    border: 30px solid;
+    padding: 10px;
+    border-image: repeating-linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89)) 20;
+  }
+  .colorshadow {
+    border: 30px solid #a01a5d;
+    padding: 5px;
+    box-shadow: 6px 4px #a01a5d;
+  }
